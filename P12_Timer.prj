@@ -1,0 +1,57 @@
+[HeadersList]
+Files=1
+F1=C:\Users\Sarve\Desktop\C programming\avr\P12_counter_timer\P12_Timer.c
+[Header1]
+Files=6
+F1=..\..\..\..\Downloads\cvavr\cvavr\inc\io.h
+F2=..\..\..\..\Downloads\cvavr\cvavr\inc\mega328p.h
+F3=..\..\..\..\Downloads\cvavr\cvavr\inc\mega328p_bits.h
+F4=..\..\..\..\Downloads\cvavr\cvavr\inc\stdint.h
+F5=..\..\..\..\Downloads\cvavr\cvavr\inc\interrupt.h
+F6=..\..\..\..\Downloads\cvavr\cvavr\inc\delay.h
+[CompilerDebug]
+RebuildAll=0
+LinkageInformationPresent=1
+COFFileTimeStamp=1534745385
+Build=3
+[Compiler]
+Build=3
+[BuildInfoCompiler]
+L1=Build configuration: Debug
+L2=Chip: ATmega328P
+L3=Clock frequency: 16.000000 MHz
+L4=Program type: Application
+L5=Memory model: Small
+L6=Optimize for: Speed
+L7=(s)printf features: int, width
+L8=(s)scanf features: int, width
+L9=Promote 'char' to 'int': Yes
+L10='char' is unsigned: Yes
+L11=global 'const' stored in FLASH: No
+L12=8 bit enums: Yes
+L13=Enhanced function parameters passing: Yes
+L14=Automatic register allocation: Yes
+L15=Smart register allocation: Yes
+L16=
+L17=Build: 3
+L18=1927 line(s) compiled
+L19=13 error(s)
+L20=8 warning(s)
+L21=
+L22=Bit variables size: 0 byte(s)
+L23=
+L24=Data Stack area: 0x100 to 0x2FF
+L25=Data Stack size: 512 byte(s)
+L26=Estimated Data Stack usage: 0 byte(s)
+L27=
+L28=RAM Global variables size: 0 byte(s)
+L29=
+L30=Hardware Stack area: 0x300 to 0x8FF
+L31=Hardware Stack size: 1536 byte(s)
+L32=
+L33=Heap size: 0 byte(s)
+L34=
+L35=EEPROM usage: 0 byte(s), 0.0% of EEPROM
+Lines=35
+[BuildInfoAssembler]
+Lines=0
